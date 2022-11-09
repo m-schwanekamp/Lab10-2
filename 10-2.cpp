@@ -9,7 +9,7 @@ int main() {
     int digits[16], i;
 
     while (true) {
-        int digits;
+        long long digits;
         const int size = 16;
         int value[size];
 
